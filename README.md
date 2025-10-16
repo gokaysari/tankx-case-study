@@ -12,7 +12,7 @@ Projeyi çalıştırmak için:
 
 ```bash
 # Repository'yi klonlayın
-git clone <repository-url>
+git clone https://github.com/gokaysari/tankx-case-study.git
 
 # Proje dizinine gidin
 cd tankx-case-study
