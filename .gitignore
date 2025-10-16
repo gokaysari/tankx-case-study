@@ -60,3 +60,7 @@ jspm_packages/
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Data files
+*.csv
+*.pdf
